@@ -1,0 +1,5 @@
+libncursesw 6 libncursesw6 (>= 6.2)
+libformw 6 libncursesw6 (>= 6.2)
+libmenuw 6 libncursesw6 (>= 6.2)
+libpanelw 6 libncursesw6 (>= 6.2)
+udeb: libncursesw 6 libncursesw6-udeb (>= 6.2)

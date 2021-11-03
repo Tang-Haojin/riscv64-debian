@@ -1,0 +1,156 @@
+2021-11-02 16:11:19 startup archives unpack
+2021-11-02 16:11:19 upgrade debconf:all 1.5.78 1.5.79
+2021-11-02 16:11:19 status half-configured debconf:all 1.5.78
+2021-11-02 16:11:19 status unpacked debconf:all 1.5.78
+2021-11-02 16:11:19 status half-installed debconf:all 1.5.78
+2021-11-02 16:11:20 status unpacked debconf:all 1.5.79
+2021-11-02 16:11:20 startup packages configure
+2021-11-02 16:11:20 configure debconf:all 1.5.79 <none>
+2021-11-02 16:11:20 status unpacked debconf:all 1.5.79
+2021-11-02 16:11:20 status half-configured debconf:all 1.5.79
+2021-11-02 16:11:21 status installed debconf:all 1.5.79
+2021-11-02 16:11:21 startup archives unpack
+2021-11-02 16:11:22 upgrade dash:riscv64 0.5.11+git20210120+802ebd4-2 0.5.11+git20210903+057cd650a4ed-1
+2021-11-02 16:11:22 status half-configured dash:riscv64 0.5.11+git20210120+802ebd4-2
+2021-11-02 16:11:22 status unpacked dash:riscv64 0.5.11+git20210120+802ebd4-2
+2021-11-02 16:11:22 status half-installed dash:riscv64 0.5.11+git20210120+802ebd4-2
+2021-11-02 16:11:22 status unpacked dash:riscv64 0.5.11+git20210903+057cd650a4ed-1
+2021-11-02 16:11:22 startup packages configure
+2021-11-02 16:11:22 configure dash:riscv64 0.5.11+git20210903+057cd650a4ed-1 <none>
+2021-11-02 16:11:22 status unpacked dash:riscv64 0.5.11+git20210903+057cd650a4ed-1
+2021-11-02 16:11:22 status half-configured dash:riscv64 0.5.11+git20210903+057cd650a4ed-1
+2021-11-02 16:11:23 status installed dash:riscv64 0.5.11+git20210903+057cd650a4ed-1
+2021-11-02 16:11:23 startup archives unpack
+2021-11-02 16:11:24 upgrade libselinux1:riscv64 3.1-3 3.1-3+b1
+2021-11-02 16:11:24 status triggers-pending libc-bin:riscv64 2.32-4
+2021-11-02 16:11:24 status half-configured libselinux1:riscv64 3.1-3
+2021-11-02 16:11:24 status unpacked libselinux1:riscv64 3.1-3
+2021-11-02 16:11:24 status half-installed libselinux1:riscv64 3.1-3
+2021-11-02 16:11:24 status unpacked libselinux1:riscv64 3.1-3+b1
+2021-11-02 16:11:24 startup packages configure
+2021-11-02 16:11:24 configure libselinux1:riscv64 3.1-3+b1 <none>
+2021-11-02 16:11:24 status unpacked libselinux1:riscv64 3.1-3+b1
+2021-11-02 16:11:24 status half-configured libselinux1:riscv64 3.1-3+b1
+2021-11-02 16:11:24 status installed libselinux1:riscv64 3.1-3+b1
+2021-11-02 16:11:24 startup packages configure
+2021-11-02 16:11:24 trigproc libc-bin:riscv64 2.32-4 <none>
+2021-11-02 16:11:24 status half-configured libc-bin:riscv64 2.32-4
+2021-11-02 16:11:24 status installed libc-bin:riscv64 2.32-4
+2021-11-02 16:13:46 startup archives unpack
+2021-11-02 16:13:46 install libhavege2:riscv64 <none> 1.9.14-1
+2021-11-02 16:13:46 status triggers-pending libc-bin:riscv64 2.32-4
+2021-11-02 16:13:46 status half-installed libhavege2:riscv64 1.9.14-1
+2021-11-02 16:13:46 status unpacked libhavege2:riscv64 1.9.14-1
+2021-11-02 16:13:46 install haveged:riscv64 <none> 1.9.14-1
+2021-11-02 16:13:46 status half-installed haveged:riscv64 1.9.14-1
+2021-11-02 16:13:46 status unpacked haveged:riscv64 1.9.14-1
+2021-11-02 16:13:46 startup packages configure
+2021-11-02 16:13:46 configure libhavege2:riscv64 1.9.14-1 <none>
+2021-11-02 16:13:46 status unpacked libhavege2:riscv64 1.9.14-1
+2021-11-02 16:13:46 status half-configured libhavege2:riscv64 1.9.14-1
+2021-11-02 16:13:46 status installed libhavege2:riscv64 1.9.14-1
+2021-11-02 16:13:46 configure haveged:riscv64 1.9.14-1 <none>
+2021-11-02 16:13:46 status unpacked haveged:riscv64 1.9.14-1
+2021-11-02 16:13:47 status half-configured haveged:riscv64 1.9.14-1
+2021-11-02 16:13:48 status installed haveged:riscv64 1.9.14-1
+2021-11-02 16:13:48 trigproc libc-bin:riscv64 2.32-4 <none>
+2021-11-02 16:13:48 status half-configured libc-bin:riscv64 2.32-4
+2021-11-02 16:13:48 status installed libc-bin:riscv64 2.32-4
+2021-11-03 05:54:17 startup archives unpack
+2021-11-03 05:54:17 install mksh:riscv64 <none> 59c-14
+2021-11-03 05:54:17 status half-installed mksh:riscv64 59c-14
+2021-11-03 05:54:17 status unpacked mksh:riscv64 59c-14
+2021-11-03 05:54:17 install udev:riscv64 <none> 249.5-1
+2021-11-03 05:54:17 status half-installed udev:riscv64 249.5-1
+2021-11-03 05:54:18 status unpacked udev:riscv64 249.5-1
+2021-11-03 05:54:18 install rng-tools-debian:riscv64 <none> 2.3
+2021-11-03 05:54:18 status half-installed rng-tools-debian:riscv64 2.3
+2021-11-03 05:54:18 status unpacked rng-tools-debian:riscv64 2.3
+2021-11-03 05:54:18 startup packages configure
+2021-11-03 05:54:18 configure mksh:riscv64 59c-14 <none>
+2021-11-03 05:54:18 status unpacked mksh:riscv64 59c-14
+2021-11-03 05:54:18 status half-configured mksh:riscv64 59c-14
+2021-11-03 05:54:19 status installed mksh:riscv64 59c-14
+2021-11-03 05:54:19 startup archives unpack
+2021-11-03 05:54:19 install rng-tools:all <none> 5migrate1
+2021-11-03 05:54:19 status half-installed rng-tools:all 5migrate1
+2021-11-03 05:54:20 status unpacked rng-tools:all 5migrate1
+2021-11-03 05:54:20 install ed:riscv64 <none> 1.17-1
+2021-11-03 05:54:20 status half-installed ed:riscv64 1.17-1
+2021-11-03 05:54:20 status unpacked ed:riscv64 1.17-1
+2021-11-03 05:54:20 startup packages configure
+2021-11-03 05:54:20 configure ed:riscv64 1.17-1 <none>
+2021-11-03 05:54:20 status unpacked ed:riscv64 1.17-1
+2021-11-03 05:54:20 status half-configured ed:riscv64 1.17-1
+2021-11-03 05:54:20 status installed ed:riscv64 1.17-1
+2021-11-03 05:54:20 configure udev:riscv64 249.5-1 <none>
+2021-11-03 05:54:20 status unpacked udev:riscv64 249.5-1
+2021-11-03 05:54:20 status half-configured udev:riscv64 249.5-1
+2021-11-03 05:54:23 status installed udev:riscv64 249.5-1
+2021-11-03 05:54:23 configure rng-tools-debian:riscv64 2.3 <none>
+2021-11-03 05:54:23 status unpacked rng-tools-debian:riscv64 2.3
+2021-11-03 05:54:23 status half-configured rng-tools-debian:riscv64 2.3
+2021-11-03 05:54:24 status installed rng-tools-debian:riscv64 2.3
+2021-11-03 05:54:24 configure rng-tools:all 5migrate1 <none>
+2021-11-03 05:54:24 status unpacked rng-tools:all 5migrate1
+2021-11-03 05:54:24 status half-configured rng-tools:all 5migrate1
+2021-11-03 05:54:24 status installed rng-tools:all 5migrate1
+2021-11-03 06:01:04 startup packages remove
+2021-11-03 06:01:04 status installed rng-tools:all 5migrate1
+2021-11-03 06:01:04 remove rng-tools:all 5migrate1 <none>
+2021-11-03 06:01:04 status half-configured rng-tools:all 5migrate1
+2021-11-03 06:01:05 status half-installed rng-tools:all 5migrate1
+2021-11-03 06:01:05 status config-files rng-tools:all 5migrate1
+2021-11-03 06:01:05 status not-installed rng-tools:all <none>
+2021-11-03 06:01:05 startup packages configure
+2021-11-03 06:01:05 startup packages configure
+2021-11-03 06:01:18 startup packages remove
+2021-11-03 06:01:19 status installed rng-tools-debian:riscv64 2.3
+2021-11-03 06:01:19 remove rng-tools-debian:riscv64 2.3 <none>
+2021-11-03 06:01:19 status half-configured rng-tools-debian:riscv64 2.3
+2021-11-03 06:01:19 status half-installed rng-tools-debian:riscv64 2.3
+2021-11-03 06:01:19 status config-files rng-tools-debian:riscv64 2.3
+2021-11-03 06:01:19 startup packages configure
+2021-11-03 06:01:19 startup packages purge
+2021-11-03 06:01:19 purge rng-tools-debian:riscv64 2.3 <none>
+2021-11-03 06:01:19 status config-files rng-tools-debian:riscv64 2.3
+2021-11-03 06:01:20 status not-installed rng-tools-debian:riscv64 <none>
+2021-11-03 06:01:20 startup packages configure
+2021-11-03 06:01:42 startup packages remove
+2021-11-03 06:01:42 status installed ed:riscv64 1.17-1
+2021-11-03 06:01:42 remove ed:riscv64 1.17-1 <none>
+2021-11-03 06:01:42 status half-configured ed:riscv64 1.17-1
+2021-11-03 06:01:42 status half-installed ed:riscv64 1.17-1
+2021-11-03 06:01:42 status config-files ed:riscv64 1.17-1
+2021-11-03 06:01:42 status not-installed ed:riscv64 <none>
+2021-11-03 06:01:42 status installed mksh:riscv64 59c-14
+2021-11-03 06:01:42 remove mksh:riscv64 59c-14 <none>
+2021-11-03 06:01:42 status half-configured mksh:riscv64 59c-14
+2021-11-03 06:01:43 status half-installed mksh:riscv64 59c-14
+2021-11-03 06:01:43 status config-files mksh:riscv64 59c-14
+2021-11-03 06:01:44 status installed udev:riscv64 249.5-1
+2021-11-03 06:01:44 remove udev:riscv64 249.5-1 <none>
+2021-11-03 06:01:44 status half-configured udev:riscv64 249.5-1
+2021-11-03 06:01:44 status half-installed udev:riscv64 249.5-1
+2021-11-03 06:01:44 status config-files udev:riscv64 249.5-1
+2021-11-03 06:01:44 startup packages configure
+2021-11-03 06:01:44 startup packages purge
+2021-11-03 06:01:44 purge mksh:riscv64 59c-14 <none>
+2021-11-03 06:01:44 status config-files mksh:riscv64 59c-14
+2021-11-03 06:01:44 status not-installed mksh:riscv64 <none>
+2021-11-03 06:01:44 purge udev:riscv64 249.5-1 <none>
+2021-11-03 06:01:44 status config-files udev:riscv64 249.5-1
+2021-11-03 06:01:45 status not-installed udev:riscv64 <none>
+2021-11-03 06:01:45 startup packages configure
+2021-11-03 11:36:51 startup packages remove
+2021-11-03 11:36:51 status installed haveged:riscv64 1.9.14-1
+2021-11-03 11:36:51 remove haveged:riscv64 1.9.14-1 <none>
+2021-11-03 11:36:51 status half-configured haveged:riscv64 1.9.14-1
+2021-11-03 11:36:52 status half-installed haveged:riscv64 1.9.14-1
+2021-11-03 11:36:52 status config-files haveged:riscv64 1.9.14-1
+2021-11-03 11:36:52 startup packages configure
+2021-11-03 11:36:52 startup packages purge
+2021-11-03 11:36:52 purge haveged:riscv64 1.9.14-1 <none>
+2021-11-03 11:36:52 status config-files haveged:riscv64 1.9.14-1
+2021-11-03 11:36:54 status not-installed haveged:riscv64 <none>
+2021-11-03 11:36:54 startup packages configure

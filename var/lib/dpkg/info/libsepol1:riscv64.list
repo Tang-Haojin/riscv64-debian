@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/riscv64-linux-gnu
+/lib/riscv64-linux-gnu/libsepol.so.1
+/usr
+/usr/share
+/usr/share/doc/libsepol1
+/usr/share/doc/libsepol1/changelog.Debian.gz
+/usr/share/doc/libsepol1/copyright

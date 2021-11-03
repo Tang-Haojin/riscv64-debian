@@ -1,0 +1,42 @@
+
+Start-Date: 2021-11-02  16:11:18
+Commandline: apt upgrade
+Requested-By: debian (1000)
+Upgrade: libselinux1:riscv64 (3.1-3, 3.1-3+b1), debconf:riscv64 (1.5.78, 1.5.79), dash:riscv64 (0.5.11+git20210120+802ebd4-2, 0.5.11+git20210903+057cd650a4ed-1)
+End-Date: 2021-11-02  16:11:24
+
+Start-Date: 2021-11-02  16:13:46
+Commandline: apt install haveged
+Requested-By: debian (1000)
+Install: libhavege2:riscv64 (1.9.14-1, automatic), haveged:riscv64 (1.9.14-1)
+End-Date: 2021-11-02  16:13:48
+
+Start-Date: 2021-11-03  05:54:16
+Commandline: apt install rng-tools
+Requested-By: debian (1000)
+Install: udev:riscv64 (249.5-1, automatic), rng-tools-debian:riscv64 (2.3, automatic), mksh:riscv64 (59c-14, automatic), ed:riscv64 (1.17-1, automatic), rng-tools:riscv64 (5migrate1)
+End-Date: 2021-11-03  05:54:24
+
+Start-Date: 2021-11-03  06:01:04
+Commandline: apt purge rng-tools
+Requested-By: debian (1000)
+Purge: rng-tools:riscv64 (5migrate1)
+End-Date: 2021-11-03  06:01:05
+
+Start-Date: 2021-11-03  06:01:18
+Commandline: apt purge rng-tools-debian
+Requested-By: debian (1000)
+Purge: rng-tools-debian:riscv64 (2.3)
+End-Date: 2021-11-03  06:01:20
+
+Start-Date: 2021-11-03  06:01:42
+Commandline: apt autopurge
+Requested-By: debian (1000)
+Purge: udev:riscv64 (249.5-1), mksh:riscv64 (59c-14), ed:riscv64 (1.17-1)
+End-Date: 2021-11-03  06:01:45
+
+Start-Date: 2021-11-03  11:36:51
+Commandline: apt purge haveged
+Requested-By: debian (1000)
+Purge: haveged:riscv64 (1.9.14-1)
+End-Date: 2021-11-03  11:36:54

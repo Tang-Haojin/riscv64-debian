@@ -1,0 +1,10 @@
+update-alternatives 2021-11-03 05:54:18: run with --install /bin/ksh ksh /bin/mksh 12 --slave /usr/share/man/man1/ksh.1.gz ksh.1.gz /usr/share/man/man1/mksh.1.gz --slave /bin/rksh rksh /bin/mksh --slave /usr/share/man/man1/rksh.1.gz rksh.1.gz /usr/share/man/man1/mksh.1.gz
+update-alternatives 2021-11-03 05:54:18: link group ksh updated to point to /bin/mksh
+update-alternatives 2021-11-03 05:54:18: run with --install /bin/ksh ksh /bin/mksh-static 11 --slave /usr/share/man/man1/ksh.1.gz ksh.1.gz /usr/share/man/man1/mksh-static.1.gz --slave /bin/rksh rksh /bin/mksh-static --slave /usr/share/man/man1/rksh.1.gz rksh.1.gz /usr/share/man/man1/mksh-static.1.gz
+update-alternatives 2021-11-03 05:54:20: run with --quiet --install /usr/bin/editor editor /bin/ed -100 --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/ed.1.gz
+update-alternatives 2021-11-03 05:54:20: auto-repair link group editor
+update-alternatives 2021-11-03 06:01:42: run with --remove editor /bin/ed
+update-alternatives 2021-11-03 06:01:43: run with --remove ksh /bin/mksh
+update-alternatives 2021-11-03 06:01:43: link group ksh updated to point to /bin/mksh-static
+update-alternatives 2021-11-03 06:01:43: run with --remove ksh /bin/mksh-static
+update-alternatives 2021-11-03 06:01:43: link group ksh fully removed

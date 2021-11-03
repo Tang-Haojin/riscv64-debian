@@ -1,0 +1,5 @@
+1a70169d26828e8dfabafb989badc042  usr/share/doc/debian-ports-archive-keyring/README
+946afa2704828b347b35594f36f580e5  usr/share/doc/debian-ports-archive-keyring/changelog.gz
+32d5b610fe3205fed8bcef8c2b1f8d31  usr/share/doc/debian-ports-archive-keyring/copyright
+c6606be83dbc102736aea5ac57977483  usr/share/keyrings/debian-ports-archive-keyring-removed.gpg
+159e443e61585ab75e961a41068f602c  usr/share/keyrings/debian-ports-archive-keyring.gpg

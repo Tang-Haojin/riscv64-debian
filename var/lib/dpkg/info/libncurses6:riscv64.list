@@ -1,0 +1,16 @@
+/.
+/lib
+/lib/riscv64-linux-gnu
+/lib/riscv64-linux-gnu/libncurses.so.6.2
+/usr
+/usr/lib
+/usr/lib/riscv64-linux-gnu
+/usr/lib/riscv64-linux-gnu/libform.so.6.2
+/usr/lib/riscv64-linux-gnu/libmenu.so.6.2
+/usr/lib/riscv64-linux-gnu/libpanel.so.6.2
+/usr/share
+/lib/riscv64-linux-gnu/libncurses.so.6
+/usr/lib/riscv64-linux-gnu/libform.so.6
+/usr/lib/riscv64-linux-gnu/libmenu.so.6
+/usr/lib/riscv64-linux-gnu/libpanel.so.6
+/usr/share/doc/libncurses6

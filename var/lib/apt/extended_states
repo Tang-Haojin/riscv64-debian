@@ -1,0 +1,56 @@
+Package: libip4tc2
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libapparmor1
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: liblocale-gettext-perl
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: dmsetup
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libjson-c5
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libprocps8
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libcryptsetup12
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libseccomp2
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libkmod2
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libargon2-1
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libncursesw6
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libdevmapper1.02.1
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libncurses6
+Architecture: riscv64
+Auto-Installed: 1
+
+Package: libhavege2
+Architecture: riscv64
+Auto-Installed: 1
+
